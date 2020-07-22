@@ -1,0 +1,33 @@
+Assignment No.1
+
+1.What is your understanding of Blockchain?
+Ans. A blockchain is a database that is shared across a network of computers.Once a record has been 
+added to the chain it is very difficult to change.To ensure all the copies of the database are the same,
+the network maakes constant cheks.Blockchain have been used to underpin cyber currencies like 
+bitcoin,but many other possible uses are emerging.
+
+2.What is the core problem Blockchain trying to solve?
+Ans.A blockchain increases the security and transparency of information stored within a database
+and enables trustless trust when it comes to run programs based on this data.
+
+3.What are the few features which Blockchain will give you?
+Ans. i. Data stored in Blockchain is immutable and cannot be changed easily.
+      ii. Blockchain is decentralized as well as an open ledger.Ledger is the record of the transaction
+          done and because it is visible to everyone, therefore is called an open ledger.
+     iii. Blockchain provide a peer to peer network.This characteristics of blockchain allows the 
+          transactions to involve only two parties,the sender and receiver.
+
+4.What all things does a Block contain?
+Ans. Blocks are files where data pertaining to the Bitcoin network are permanently recorded.
+A block records some or all of the most recent Bitcoin transactions that have not yet entered 
+any prior blocks.Thus,a block is like a page of a ledger or record book.Each time a block is 
+completed,it gives way to the next block in the blockchain.A block is thus a permanent store
+of records which, once written, cannot be altered or removed.
+
+5.How is the verifiability of Blockchain has been attained?
+Ans. The technology at the heart of bitcoin and other virtual currencies,blockchain is an 
+open,distributed ledger that can record transactions between two parties efficiently and in a
+verifiable and permanent way. The ledger itself can also be programmed to trigger transactionsautomatically.
+
+
+
